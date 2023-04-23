@@ -1,0 +1,4 @@
+params:
+  BEGIN_DATE: '2017-01-01'
+  END_DATE: '2023-01-01'
+  NUM_GROUPS: 10
